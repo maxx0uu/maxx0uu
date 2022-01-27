@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Je suis Maxime Cottin, développeur web & web mobile en formation.
+
+
+
+
 <!--
 **Maxime-Cottin/Maxime-Cottin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
