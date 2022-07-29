@@ -13,7 +13,7 @@ Je travaille actuellement avec plusieurs technologies comme :
   - 🔥 **Firebase**
   - 📈 **Apollo et GraphQL**
 
-🔭 Actuellement je conçois et je développe mon portfolio que vous pouvez retrouver [à cette adresse](htts://www.cosmic-madeleine-e63a34.netlify.app)
+🔭 Actuellement je conçois et je développe mon portfolio que vous pouvez retrouver [à cette adresse](https://www.cosmic-madeleine-e63a34.netlify.app)
 
 
 <!--
