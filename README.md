@@ -7,20 +7,14 @@ Je suis en recherche d'entreprise pour une alternance qui commencera en septembr
 
 Je travaille actuellement avec plusieurs technologies comme : 
   - ⚛️ **ReactJS**
+  - 🧰 **NextJS**
   - 🟦 **TypeScript**
-  - 🖌️ **Sass**
   - 🌊 **TailwindCSS**
   - 🔥 **Firebase**
+  - 🅿️ **Prismic**
   - 📈 **Apollo et GraphQL**
 
-🔭 Actuellement je conçois et je développe mon portfolio que vous pouvez retrouver [à cette adresse](https://cosmic-madeleine-e63a34.netlify.app/)
-
-
 <!--
-**Maxime-Cottin/Maxime-Cottin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
