@@ -1,9 +1,6 @@
 ### Bonjour 👋
 
-Je suis Maxime Cottin, développeur web & web mobile en reconversion professionnelle.
-J'ai déjà obtenu un titre professionnel Développeur Web et Web Mobile en avril 2022.
-
-Je suis en recherche d'entreprise pour une alternance qui commencera en septembre pour préparer un titre professionnel de Concepteur et Développeur d'Applications.
+Je suis Maxime, développeur web & web mobile.
 
 Je travaille actuellement avec plusieurs technologies comme : 
   - ⚛️ **ReactJS**
